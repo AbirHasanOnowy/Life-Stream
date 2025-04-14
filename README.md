@@ -23,4 +23,4 @@ A web application aimed to provide service to a blood bank where donors can gath
 
 ## Screenshots
 
-![Home Page]<Home.jpg>
+![Home Page]<About Us.jpg>
