@@ -9,18 +9,37 @@ A web application aimed to provide service to a blood bank where donors can gath
 3. User friendly UI
 4. Manage clients smoothly
 
-
 ## Tech stack
 
 ### Frontend
+
 1. HTML
 2. CSS
 3. Javascript
 
 ### Backend
+
 1. PHP
 2. MySQL
 
 ## Screenshots
 
-![Home Page]<About Us.jpg>
+![alt text](<Home Page.png>)
+
+![alt text](<Login Page.png>)
+
+![alt text](<Make Request Mage.png>)
+
+![alt text](<About Page.png>)
+
+![alt text](<Agent Page.png>)
+
+![alt text](<Contracts Page.png>)
+
+![alt text](<Donor Profile Page.png>)
+
+![alt text](<Donor registration Page.png>)
+
+[Life Stream Project Report](<./Life Stream.pdf>)
+
+<embed src="./Life Stream.pdf" width="800px" height="600px" />
